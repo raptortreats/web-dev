@@ -1,0 +1,17 @@
+types of data types in javascript
+
+primitive datatypes
+
+strings
+numbers
+booleans
+null
+undefined
+symbol
+
+
+non primitive data types
+
+functions
+objects
+arrays
