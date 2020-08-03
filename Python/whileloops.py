@@ -1,8 +1,7 @@
 a = [1,234,876,45,23]
-count=0
-for i in a:
-    while i<22:
-        count += 1
-        print('rochish')
-        break
+i = 0
+while i < len(a):
+   i = i + 1
+   if(a[i]<22):
+      print('karma')
         
