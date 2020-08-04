@@ -6,3 +6,10 @@ def rtraptor():                         #defining a function
 rtraptor()                                # calling a function
 
 #shoud'nt call the function before defining it absurdly.
+
+
+def poweroftwo(x):
+    print(2**x)
+
+poweroftwo(5)
+poweroftwo(12)
