@@ -1,0 +1,3 @@
+understanding the comparison operators
+write conditional statements
+boolean operators working
