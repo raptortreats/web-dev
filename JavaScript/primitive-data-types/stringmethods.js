@@ -65,7 +65,7 @@ const age = "5" + "4"
 console.log(age)
 
 // what does this evalueate to?
-//error
+//i
 
 console.log("pecan pie"[7])
 
