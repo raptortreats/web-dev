@@ -1,0 +1,37 @@
+write for loops
+write while loops
+avoid infinite loops
+iterate over arrays and objects
+
+
+
+
+
+
+loops -- repeating things
+ loops allow us to repeat code
+ eg: print hello 10 times
+     sum all numbers in array
+
+
+types of loops:
+for
+while
+for in(used to iterate over objects)
+for of(used to iterate over arrays)
+
+
+// for loops
+for(initialExp; condition; increment/ decrement){
+    statement
+}
+
+// while loops
+
+initialize;
+while(condition){
+    statement
+
+    
+    increment/decrement
+}
