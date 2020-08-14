@@ -9,3 +9,6 @@ for x in fruits:
 
 
 print(len(fruits))  # length of dict
+
+
+print(int(5)+float(5)*0)
