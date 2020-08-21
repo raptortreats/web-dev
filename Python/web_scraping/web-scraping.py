@@ -45,3 +45,10 @@ print(iphones[14].text)
 print(mob_rating[14].text)
 print(star_rating[14].text)
 print(mob_specs[14].text)
+
+
+# details about 17th mobile
+print(iphones[16].text)
+print(mob_rating[16].text)
+print(star_rating[16].text)
+print(mob_specs[16].text)
