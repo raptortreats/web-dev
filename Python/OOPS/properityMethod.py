@@ -17,5 +17,5 @@ class opm:
 
 
 hero1 = opm("saitama", "B")
-hero1.str = "genos is of rank s"  # setting
+# hero1.str = "genos is of rank s"  # setting
 print(hero1.str)
