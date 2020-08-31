@@ -4,8 +4,9 @@ import winsound
 import math
 
 stupid = turtle.Screen()
-stupid.bgcolor("yellow")
+stupid.bgcolor("black")
 stupid.title("make him poop")
+stupid.bgpic("poop.gif")
 stupid.register_shape("dust.gif")
 
 
