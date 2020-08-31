@@ -61,7 +61,7 @@ class Player(turtle.Turtle):
         turtle.Turtle.__init__(self)
         self.penup()
         self.speed(0)
-        self.shape("classic")
+        self.shape("triangle")
         self.color("black")
         self.speed = 1
 
