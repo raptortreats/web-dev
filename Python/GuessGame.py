@@ -11,4 +11,4 @@ def GuessGame(n):
         print("lost")
 
 
-GuessGame(2)
+GuessGame(input())
