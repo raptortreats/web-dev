@@ -19,3 +19,8 @@ while True:
 print(summ)
 print(count)
 print("avg:", summ/count)
+
+
+str = "Perfect-Plan-B:0.7541"
+pos = str.find(":")
+print(float(str[pos+1::]))
