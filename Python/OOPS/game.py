@@ -6,7 +6,7 @@ import winsound
 
 sc = turtle.Screen()
 sc.bgcolor("grey")
-sc.title("**** the turts")
+sc.title("fuck the turts")
 sc.bgpic("tort.gif")
 # sc.register_shape("")
 
