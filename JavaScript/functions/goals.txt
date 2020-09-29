@@ -1,0 +1,24 @@
+write valid functions
+write func with arguments
+compare func expression with func statement
+
+
+
+functions - reusable procedures
+1-func allows us to write reusable and modular code
+2-we define a chunk of code that we can execute ata later point
+
+
+
+using func is a two step process
+1-defining a func
+2-run
+
+// syntax
+function func(){
+    do something
+}
+
+func() 
+
+

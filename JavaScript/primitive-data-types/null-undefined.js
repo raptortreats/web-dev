@@ -27,3 +27,8 @@ console.log(1/0)
 console.log("abcd" * 10)
 console.log("abcd" + 10)
 console.log("abcd" - 10)
+
+
+
+
+

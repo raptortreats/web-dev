@@ -21,7 +21,7 @@ colors.push("yellow");
 console.log(colors);
 //pop--remove from end
 console.log(colors.pop());
-//shift-- remove from start
+//shift-- remove from start        [10,20,30,10,10,20,10]
 colors.shift();
 console.log(colors);
 //unshift -- adds new element to start
@@ -47,3 +47,14 @@ tot.splice(2, 0, "yoyo");
 console.log(tot);
 //sort--sorts an array
 console.log(tot.sort());
+
+// nested arrays
+
+let names = [["a", "b", "c"], "d", ["e", "fg", "h"], "ij"];
+
+let res = names.join().split(","); // ["a","b","c",]
+console.log(res);
+console.log(res.join(""));
+
+let n = "abcdefghijklmnopqrstuvwxyz";
+console.log(n.split());
