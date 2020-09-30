@@ -13,3 +13,9 @@ print(data['Fare'])
 # changing the column into boolean values
 data['sex'] = data['Sex'] == 'male'  # creating new column
 print(data.head())
+arr = data[['Fare', 'Survived', 'Pclass']].values
+print(arr)  # values in numpy arrays
+
+print(arr[:, 2])
+mask = arr[:, 2] < 2
+print(arr[mask])
